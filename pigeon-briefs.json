@@ -1,0 +1,45 @@
+{
+  "S": "is",
+  "ST": "is it",
+  "SE": "is he",
+  "S-RB": "is she",
+  "S-T": "is the",
+
+  "SKP": "and",
+  "SKPE": "and he",
+  "SKPEU": "and I",
+  "SKPU": "and you",
+  "SKP-RB": "and she",
+  "SKP-T": "and the",
+
+  "SR": "have",
+  "SREU": "have I",
+  "SRU": "have you",
+  "SR-T": "have the",
+
+  "T": "it",
+  "THR": "there",
+
+  "TK": "did",
+  "TKE": "did he",
+  "TKEU": "did I",
+  "TKU": "did you",
+  "TK-RB": "did she",
+  "TK-T": "did the",
+
+  "K": "can",
+  "KE": "can he",
+  "KEU": "can I",
+  "KU": "can you",
+  "K-RB": "can she",
+  "K-T": "can the",
+
+  "W": "with",
+  "R": "are",
+  "EU": "I",
+  "U": "you",
+  "-F": "of",
+  "-R": "are",
+  "-B": "be",
+  "-T": "the"
+}
