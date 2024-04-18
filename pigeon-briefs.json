@@ -1,15 +1,21 @@
 {
   "S": "is",
   "ST": "is it",
+  "STHR": "is there",
   "SE": "is he",
   "S-RB": "is she",
   "S-T": "is the",
+  "S-PBT": "isn't",
+  "S*PBT": "is not",
 
   "SKP": "and",
   "SKPE": "and he",
   "SKPEU": "and I",
   "SKPU": "and you",
   "SKP-RB": "and she",
+  "SKP-PBT": "and not",
+  "SKP-L": "and will",
+  "SKP-LD": "and would",
   "SKP-T": "and the",
 
   "SR": "have",
@@ -18,7 +24,16 @@
   "SR-T": "have the",
 
   "T": "it",
+  "T-L": "it'll",
+  "T*L": "it will",
+  "T-S": "it's",
+  "T*S": "it is",
+
   "THR": "there",
+  "THR-L": "there'll",
+  "THR*L": "there will",
+  "THR-S": "there's",
+  "THR*S": "there is",
 
   "TK": "did",
   "TKE": "did he",
@@ -32,14 +47,53 @@
   "KEU": "can I",
   "KU": "can you",
   "K-RB": "can she",
+  "K-B": "can be",
   "K-T": "can the",
 
+  "KWR": "why",
+  "KWR-T": "why the",
+  "KWR-S": "why's",
+  "KWR*S": "why is",
+
+  "PW": "about",
+  "PW-T": "about the",
+
+  "PH": "am",
+  "PHEU": "am I",
+
   "W": "with",
+  "WU": "with you",
+  "W-T": "with the",
+
+  "HR": "will",
+  "HRE": "will he",
+  "HREU": "will I",
+  "HRU": "will you",
+  "HR-RB": "will she",
+  "HR-B": "will be",
+  "HR-T": "will the",
+
   "R": "are",
+  "RU": "are you",
+  "R-T": "are the",
+
   "EU": "I",
+  "EUPL": "I'm",
+  "*EUPL": "I am",
+  "EUL": "I'll",
+  "*EUL": "I will",
+
   "U": "you",
+  "UR": "you're",
+  "*UR": "you are",
+  "UL": "you'll",
+  "*UL": "you will",
+
   "-F": "of",
+  "-FT": "of the",
+
   "-R": "are",
   "-B": "be",
+  "-BT": "be the",
   "-T": "the"
 }
