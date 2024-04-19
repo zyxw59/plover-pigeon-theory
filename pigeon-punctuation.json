@@ -4,5 +4,6 @@
   "TP-BG": "{!}",
   "KW-BG": "{,}",
   "STPH-FPLT": "{:}",
-  "STPH*FPLT": "{;}"
+  "STPH*FPLT": "{;}",
+  "SKP*": "{&&}"
 }
