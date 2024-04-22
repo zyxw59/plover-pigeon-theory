@@ -105,5 +105,10 @@
   "-R": "are",
   "-B": "be",
   "-BT": "be the",
-  "-T": "the"
+  "-T": "the",
+
+  "THA*EURPD": "therapy",
+  "O*R": "other",
+  "TPHO*R": "another",
+  "TPHE": "any"
 }
