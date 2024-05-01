@@ -1,0 +1,7 @@
+{
+  "#TKPWRAF/TPHU": "grafana",
+  "#OELT": "opentelemetry",
+  "#O*ELT": "otel",
+  "#TKORBG": "docker",
+  "#TKORBG/TPAOEUL": "dockerfile"
+}
