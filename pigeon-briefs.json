@@ -33,6 +33,16 @@
   "T-D": "it'd",
   "T-LD": "it would",
 
+  "T-T": "to the",
+
+  "TH": "that",
+  "TH-L": "that'll",
+  "TH*L": "that will",
+  "TH-S": "that's",
+  "TH*S": "that is",
+  "TH-D": "that'd",
+  "TH-LD": "that would",
+
   "THR": "there",
   "THR-L": "there'll",
   "THR*L": "there will",
@@ -40,6 +50,10 @@
   "THR*S": "there is",
   "THR-D": "there'd",
   "THR-LD": "there would",
+
+  "TPH": "in",
+  "TPH-T": "in the",
+  "TPH*T": "into",
 
   "TK": "did",
   "TKE": "did he",
@@ -57,6 +71,7 @@
   "K-RB": "can she",
   "K-B": "can be",
   "K-T": "can the",
+  "K*T": "can think",
 
   "KWR": "why",
   "KWR-T": "why the",
@@ -80,6 +95,7 @@
   "HR-RB": "will she",
   "HR-B": "will be",
   "HR-T": "will the",
+  "HR*T": "will think",
 
   "R": "are",
   "RU": "are you",
@@ -92,6 +108,7 @@
   "*EUL": "I will",
   "*EUD": "I'd",
   "EULD": "I would",
+  "*EUT": "I think",
 
   "U": "you",
   "UR": "you're",
@@ -100,11 +117,11 @@
   "*UL": "you will",
   "*UD": "you'd",
   "ULD": "you would",
+  "*UT": "you think",
 
   "-F": "of",
   "-FT": "of the",
 
-  "-R": "are",
   "-B": "be",
   "-BT": "be the",
   "-T": "the",
@@ -112,5 +129,9 @@
   "THA*EURPD": "therapy",
   "O*R": "other",
   "TPHO*R": "another",
-  "TPHE": "any"
+  "TPHE": "any",
+  "THR*EPLD": "telemetry",
+  "THEU": "think",
+  "AULS": "also",
+  "PHAEUB": "maybe"
 }
