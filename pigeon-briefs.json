@@ -8,6 +8,9 @@
   "S-PBT": "isn't",
   "S*PBT": "is not",
 
+  "SPWAO": "into",
+  "SPWAOT": "into the",
+
   "SKP": "and",
   "SKPE": "and he",
   "SKPEU": "and I",
@@ -53,7 +56,6 @@
 
   "TPH": "in",
   "TPH-T": "in the",
-  "TPH*T": "into",
 
   "TK": "did",
   "TKE": "did he",
