@@ -21,6 +21,8 @@
   "SR": "have",
   "SREU": "have I",
   "SRU": "have you",
+  "SR-PBT": "haven't",
+  "SR*PBT": "have not",
   "SR-T": "have the",
 
   "T": "it",
