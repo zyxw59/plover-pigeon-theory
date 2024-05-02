@@ -1,6 +1,7 @@
 {
   "S": "is",
   "ST": "is it",
+  "STH": "is that",
   "STHR": "is there",
   "SE": "is he",
   "S-RB": "is she",
@@ -104,6 +105,7 @@
   "R-T": "are the",
 
   "EU": "I",
+  "*EUF": "I've",
   "EUPL": "I'm",
   "*EUPL": "I am",
   "EUL": "I'll",
@@ -113,6 +115,7 @@
   "*EUT": "I think",
 
   "U": "you",
+  "*UF": "you've",
   "UR": "you're",
   "*UR": "you are",
   "UL": "you'll",
