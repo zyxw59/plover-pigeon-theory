@@ -3,5 +3,8 @@
   "#OELT": "opentelemetry",
   "#O*ELT": "otel",
   "#TKORBG": "docker",
-  "#TKORBG/TPAOEUL": "dockerfile"
+  "#TKORBG/TPAOEUL": "dockerfile",
+
+  "#PU/SEUFBG": "Pacific",
+  "#AT/HRAPB/TEUBG": "Atlantic"
 }
