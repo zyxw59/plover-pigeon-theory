@@ -5,6 +5,7 @@
   "KW-BG": "{,}",
   "STPH-FPLT": "{:}",
   "STPH*FPLT": "{;}",
+  "TKPW-PBLG": "{^}::{^}",
   "SKP*": "{&&}",
   "-TS": "{^}/{^}",
   "H-PB": "{^}-{^}",
@@ -15,5 +16,13 @@
   "PWHR": "*{^}",
   "PWHR*": "{^}*",
   "KH-FG": "`{^}",
-  "KH*FG": "{^}`"
+  "KH*FG": "{^}`",
+  "TK-LG": "\"{^}",
+  "TK*LG": "{^}\"",
+  "RUPBD": "{^}_{^}",
+  "KPAFR/STPHAEUBG": "{mode:snake}",
+  "KPAFR/KAPS": "{mode:caps}",
+  "KPAFR/TAOEULT": "{mode:title}",
+  "KPAFR/KAFRL": "{mode:camel}",
+  "KPAFR/REFT": "{mode:reset_case}{mode:reset_space}"
 }
