@@ -72,6 +72,8 @@
   "KEU": "can I",
   "KU": "can you",
   "K-RB": "can she",
+  "K-PBT": "can't",
+  "K*PBT": "cannot",
   "K-B": "can be",
   "K-T": "can the",
   "K*T": "can think",
