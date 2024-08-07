@@ -7,5 +7,7 @@
   "#TKEB/*PB": "debian",
 
   "#PU/SEUFBG": "Pacific",
-  "#AT/HRAPB/TEUBG": "Atlantic"
+  "#AT/HRAPB/TEUBG": "Atlantic",
+  "#EUPBG/TKPWHREURB": "English",
+  "#TKPWHREURB": "English"
 }
