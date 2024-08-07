@@ -4,6 +4,7 @@
   "#O*ELT": "otel",
   "#TKORBG": "docker",
   "#TKORBG/TPAOEUL": "dockerfile",
+  "#TKEB/*PB": "debian",
 
   "#PU/SEUFBG": "Pacific",
   "#AT/HRAPB/TEUBG": "Atlantic"
